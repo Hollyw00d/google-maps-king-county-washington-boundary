@@ -1,0 +1,12 @@
+/* Global Styles for Google Maps Fusion Tables API Examples */
+
+body {
+  margin: 0 auto;
+  padding: 20px 0;
+  width: 960px;
+  font: normal 14px/30px Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+}
